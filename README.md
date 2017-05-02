@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/jeremy-luman-b68a2938/"><img src="https://lastpass.com/wp-content/uploads/Parker.png" align="middle"></a>
+<a href="https://www.linkedin.com/in/jeremy-luman-b68a2938/"><img src="https://lastpass.com/wp-content/uploads/Parker.png" align="center"></a>
 
 
 
