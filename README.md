@@ -10,7 +10,7 @@
 
 ![Recordit GIF](http://g.recordit.co/iLN6A0vSD8.gif)
 
-## Example (Optional)
+## Example 
 
 ```php
 <?php
