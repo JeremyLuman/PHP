@@ -1,6 +1,6 @@
-<a href="https://www.linkedin.com/in/jeremy-luman-b68a2938/"><img src="https://lastpass.com/wp-content/uploads/Parker.png" title="FVCproductions" alt="FVCproductions"></a>
+<a href="https://www.linkedin.com/in/jeremy-luman-b68a2938/" align=center><img src="https://lastpass.com/wp-content/uploads/Parker.png" title="FVCproductions" alt="FVCproductions"></a>
 
-***INSERT GRAPHIC HERE (include hyperlink in image)***
+
 
 # PHP Portfolio
 
