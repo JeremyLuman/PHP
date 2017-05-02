@@ -59,7 +59,7 @@ echo "Your age is: " . $age;
 Reach out to me at one of the following places!
 
 - LinkedIn at <a href="https://www.linkedin.com/in/jeremy-luman-b68a2938/" target="_blank">`linkedin.com`</a>
-- CodePen at <a href="https://codepen.io/JeremyLuman/">`codepen.io`
+- CodePen at <a href="https://codepen.io/JeremyLuman/" target="_blank">`codepen.io`
 - GitHub at <a href="https://github.com/JeremyLuman" target="_blank">`github.com`</a>
 
 
